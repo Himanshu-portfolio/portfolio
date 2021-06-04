@@ -206,7 +206,7 @@ class Template extends React.Component {
                             {/* ----Portfolio Item Start 1----- */}
                             <div className="portfolio-item">
                                 <div className="portfolio-item-thumbnail">
-                                    <img src="../../assets/img/portfolio/arab.PNG" alt="portfolio item thumb" />
+                                    <img src="../../assets/img/portfolio/arabyoga.jpeg" alt="portfolio item thumb" />
                                 </div>
                                 <h3 className="portfolio-item-title">arab yoga foundation website (company portfolio)</h3>
                                 <button type="button" className="btn view-project-btn">view project</button>

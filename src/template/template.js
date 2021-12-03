@@ -175,6 +175,12 @@ class Template extends React.Component {
                             {/* ----Experience Start ---- */}
                             <div className="tab-content" id="experience">
                                 <div className="timeline">
+                                <div className="timeline-item">
+                                        <span className="date">July2020 - Present</span>
+                                        <h4>Scholar Trainee - <span>Wipro Limited </span></h4>
+                                        <p>I am currently working as a full time employee here. I am working on Angular, Java, Springboot and Sproing Mvc here </p>
+                                    </div>
+
                                     <div className="timeline-item">
                                         <span className="date">Jun2020 - Nov2020</span>
                                         <h4>Software Developer Intern - <span>Hackveda </span></h4>
@@ -203,6 +209,32 @@ class Template extends React.Component {
                         </div>
                         <div className="row">
                             
+ {/* ----Portfolio Item Start 1----- */}
+                            <div className="portfolio-item">
+                                <div className="portfolio-item-thumbnail">
+                                    <img src="../../assets/img/portfolio/arabyoga.jpeg" alt="portfolio item thumb" />
+                                </div>
+                                <h3 className="portfolio-item-title">Ridhi Sidhi Jewels (Product  and Company Portfolio)</h3>
+                                <button type="button" className="btn view-project-btn">view project</button>
+                                <div className="portfolio-item-details">
+                                    <div className="description">
+                                        <p>It is my freelancing project. It’s a website of jewellery store which
+                                            is made in wordpress using custom css
+                                        </p>
+                                    </div>
+                                    <div className="general-info">
+                                        <ul>
+                                            <li>Technologies used 💻   - <span>wordpress</span></li>
+                                            <li>Role - <span>Frontend and Backend</span></li>
+                                            <li>View Live - <span><a rel="noopener noreferrer" href="http://ridhisidhijewels.in/" target="_blank">www.arabyogafoundation.com</a></span></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            {/* ----Portfolio Item End----- */}
+
+
+
                             {/* ----Portfolio Item Start 1----- */}
                             <div className="portfolio-item">
                                 <div className="portfolio-item-thumbnail">
@@ -389,7 +421,7 @@ class Template extends React.Component {
                                 <button type="button" className="btn view-project-btn">View Project</button>
                                 <div className="portfolio-item-details">
                                 <div className="description">
-                                        <p>It is my personal portfolio website which developed in react. The UI trend is used for this UI is Glassmorphism
+                                        <p>It is my personal portfolio website which developed in react. The Glass UI trend is used for this UI is Glassmorphism
                                         </p>
                                     </div>
                                     <div className="general-info">

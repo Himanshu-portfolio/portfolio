@@ -96,7 +96,7 @@ class Template extends React.Component {
                             <h2><ReactTypingEffect text=
                             {["Full Stack Developer", "Web Developer", "UI/UX Designer"]} />
                             </h2>
-                            <codersrank-summary show-avatar="false" username="kingwrites"></codersrank-summary>
+                            <codersrank-summary show-avatar="false" username="himanshu-portfolio"></codersrank-summary>
                             <a href="#about" className="btn link-item">more about me</a>
                             <a href="#portfolio" className="btn link-item">portfolio</a>
                         </div>

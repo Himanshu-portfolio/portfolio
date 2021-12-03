@@ -178,7 +178,7 @@ class Template extends React.Component {
                                 <div className="timeline-item">
                                         <span className="date">July2020 - Present</span>
                                         <h4>Scholar Trainee - <span>Wipro Limited </span></h4>
-                                        <p>I am currently working as a full time employee here. I am working on Angular, Java, Springboot and Sproing Mvc here </p>
+                                        <p>I am currently working as a full time employee here. I am working on Angular, Java, Springboot and Spring mvc here </p>
                                     </div>
 
                                     <div className="timeline-item">
@@ -212,7 +212,7 @@ class Template extends React.Component {
  {/* ----Portfolio Item Start 1----- */}
                             <div className="portfolio-item">
                                 <div className="portfolio-item-thumbnail">
-                                    <img src="../../assets/img/portfolio/arabyoga.jpeg" alt="portfolio item thumb" />
+                                    <img src="../../assets/img/portfolio/rsj.jpg" alt="portfolio item thumb" />
                                 </div>
                                 <h3 className="portfolio-item-title">Ridhi Sidhi Jewels (Product  and Company Portfolio)</h3>
                                 <button type="button" className="btn view-project-btn">view project</button>

@@ -178,7 +178,13 @@ class Template extends React.Component {
                                 <div className="timeline-item">
                                         <span className="date">July2020 - Present</span>
                                         <h4>Scholar Trainee - <span>Wipro Limited </span></h4>
-                                        <p>I am currently working as a full time employee here. I am working on Angular, Java, Springboot and Spring mvc here </p>
+                                        <p>- Building end-to-end Frontend for a stand-alone application using React.<br></br>
+- Build Rest APIs to fetch data from the backend.
+- Implementing OAuth 2 authentication for better security.
+- Build Rest API's based backend in Java Spring Boot.
+- Worked on WebSphere and apache tomcat server to deploy the applications.
+-Knowledge of git to work simultaneously with the team on a single project
+</p>
                                     </div>
 
                                     <div className="timeline-item">
